@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/viniciuscardosocsilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuscardosocsilva&show_icons=true&theme=nebula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciuscardosocsilva&show_icons=true&theme=nebula&include_all_commits=true&count_public=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscardosocsilva&layout=compact&langs_count=168theme=nebula"/>
 </div>
 
