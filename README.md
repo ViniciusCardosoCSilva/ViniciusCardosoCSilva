@@ -4,7 +4,7 @@
 
 <div style="display: inline_block" align="center">  
  <a href="https://github.com/ViniciusCardosoCSilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuscardosocsilva&show_icons=true&theme=nebula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciuscardosocsilva&show_icons=true&theme=nebula&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscardosocsilva&layout=compact&langs_count=7&theme=nebula"/>
 </div>
 
