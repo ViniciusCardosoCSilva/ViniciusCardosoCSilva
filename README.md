@@ -8,7 +8,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscardosocsilva&layout=compact&langs_count=7&theme=nebula"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciusCardosoCSilva&bg_color=0d1117&color=a70c9d&line=912289&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##
 ### Knowledge in 
