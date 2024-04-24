@@ -13,7 +13,7 @@
 ##
 ### Knowledge in 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,flutter,dart,spring,mysql,s,git,github,vscode,idea,eclipse,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,flutter,dart,spring,mysql,git,github,vscode,idea,eclipse,&perline=14" />
 </div>
 
 #
