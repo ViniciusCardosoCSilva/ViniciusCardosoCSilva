@@ -11,7 +11,7 @@
 
 
 ##
-### Knowledge in -
+### Knowledge in 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,spring,flutter,dart,mysql,git,github,&perline=14" />
 </div>
